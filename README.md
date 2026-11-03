@@ -70,6 +70,7 @@ QQ 好友 ◄────► QQ 客户端（D:\QQ.exe，被 SnowLuma 注入）
 | [06-operations.md](docs/06-operations.md) | 运维手册：启动、恢复、排障 |
 | [07-gotchas.md](docs/07-gotchas.md) | 踩过的坑（最有价值的一篇） |
 | [08-roadmap.md](docs/08-roadmap.md) | 后续计划 |
+| [09-qzone-interaction.md](docs/09-qzone-interaction.md) | **空间评论互动**：绕过上游限制的完整方案 |
 | [CHANGELOG.md](CHANGELOG.md) | 版本与进度记录 |
 
 ---
